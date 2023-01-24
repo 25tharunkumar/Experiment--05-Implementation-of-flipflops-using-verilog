@@ -180,16 +180,19 @@ T Flip-flop ![image](https://user-images.githubusercontent.com/123470785/2143507
 
 
 D Flip-flop 
+
 ![image](https://user-images.githubusercontent.com/123470785/214352226-2af7986b-e87b-4ee6-bc31-cd69d5727b2b.png)
 
 
 
 JK Flip-flop 
+
 ![image](https://user-images.githubusercontent.com/123470785/214352407-1deda018-9244-4aea-9659-84d345821831.png)
 
 
 
 T Flip-flop 
+
 ![image](https://user-images.githubusercontent.com/123470785/214352641-4c220658-95f9-4a40-8b61-6ae2461596e7.png)
 
 
