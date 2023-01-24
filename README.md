@@ -175,17 +175,17 @@ T Flip-flop ![image](https://user-images.githubusercontent.com/123470785/2143507
 
 
 
-### RTL LOGIC FOR FLIPFLOPS 
-
-
-
-
-
-
-
-
-
 ### TIMING DIGRAMS FOR FLIP FLOPS SR Flip fLOP ![image](https://user-images.githubusercontent.com/123470785/214351293-1e138bae-b97b-4bcc-b533-215e566523ca.png)
+
+
+
+D Flip-flop
+
+
+JK Flip-flop
+
+
+T Flip-flop
 
 
 
