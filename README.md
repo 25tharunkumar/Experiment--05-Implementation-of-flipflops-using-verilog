@@ -153,10 +153,12 @@ nand(B, T, clock, Q);
 nand(Q, A, Qbar);
 nand(Qbar, B, Q);
 endmodule
-RTL LOGIC FOR FLIPFLOPSSR Flip-flop
+RTL LOGIC FOR FLIPFLOPS SR Flip-flop ![image](https://user-images.githubusercontent.com/123470785/214349939-5c23cae0-924b-4c0c-92b3-7db13aa44379.png)
 
 
-D Flip-flop
+
+D Flip-flop 
+
 
 
 JK Flip-flop
