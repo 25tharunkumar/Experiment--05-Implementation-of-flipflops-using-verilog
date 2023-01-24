@@ -166,7 +166,8 @@ JK Flip-flop ![image](https://user-images.githubusercontent.com/123470785/214350
 
 
 
-T Flip-flop
+T Flip-flop ![image](https://user-images.githubusercontent.com/123470785/214350762-22189811-ae62-4b1d-a3e2-8c836cb2d0ca.png)
+
 
 
 
