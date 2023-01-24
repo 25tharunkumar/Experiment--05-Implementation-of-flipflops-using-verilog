@@ -199,3 +199,4 @@ T Flip-flop ![image](https://user-images.githubusercontent.com/123470785/2143526
 
 
 ### RESULTS 
+Thus implementation of flipflops using verilog is verified
