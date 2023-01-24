@@ -106,12 +106,51 @@ Q(t+1)=T′Q(t)+TQ(t)′
 
 
 
-### PROGRAM 
-/*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+Developed by: Tharun kumar.M
+RegisterNumber: 22002150
+*/SR Flip-flop
+module sr_flipflop(S, R, clock, Q, Qbar);
+input S, R, clock;
+output Q, Qbar;
+wire X, Y;
+nand(X, S, clock);
+nand(Y, R, clock);
+nand(Q, X, Qbar);
+nand(Qbar, Y, Q);
+endmodule
+D Flip-flop
+module d_flipflop(D, clock, Q, Qbar);
+input D, clock;
+output Q, Qbar;
+assign Dbar = ~D;
+wire X, Y;
+nand(X, D, clock);
+nand(Y, Dbar, clock);
+nand(Q, X, Qbar);
+nand(Qbar, Y, Q);
+endmodule
+JK Flip-flop
+module jk_flipflop(J, K, clock, Q, Qbar);
+input J, K, clock;
+output Q, Qbar;
+wire P, S;
+nand(P, J, clock, Qbar);
+nand(S, K, clock, Q);
+nand(Q, P, Qbar);
+nand(Qbar, S, Q);
+endmodule
+T Flip-flop
+module t_flipflop(T, clock, Q, Qbar);
+input T, clock;
+output Q, Qbar;
+wire A, B;
+nand(A, T, clock, Qbar);
+nand(B, T, clock, Q);
+nand(Q, A, Qbar);
+nand(Qbar, B, Q);
+endmodule
+RTL LOGIC FOR FLIPFLOPS
 
 
 
