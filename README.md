@@ -183,7 +183,8 @@ D Flip-flop ![image](https://user-images.githubusercontent.com/123470785/2143522
 
 
 
-JK Flip-flop
+JK Flip-flop ![image](https://user-images.githubusercontent.com/123470785/214352407-1deda018-9244-4aea-9659-84d345821831.png)
+
 
 
 T Flip-flop
