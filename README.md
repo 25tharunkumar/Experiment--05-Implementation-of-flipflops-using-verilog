@@ -157,7 +157,8 @@ RTL LOGIC FOR FLIPFLOPS SR Flip-flop ![image](https://user-images.githubusercont
 
 
 
-D Flip-flop 
+D Flip-flop ![image](https://user-images.githubusercontent.com/123470785/214350234-587f0478-00fc-485f-b103-5217e5dccbc2.png)
+
 
 
 
